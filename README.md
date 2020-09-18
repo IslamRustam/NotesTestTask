@@ -1,3 +1,6 @@
+# Launch guide
+Run ```npm i``` and then ```npm start``` to launch the app on local machine
+
 # Used libraries:
 uuid - used to generate ID's for notes  
 
@@ -9,4 +12,6 @@ react-markdown - used to translate text to markdown
 
 react-router-dom - used for routing
 
-Heroku
+# Heroku: 
+https://notes-app-test-by-me.herokuapp.com/
+

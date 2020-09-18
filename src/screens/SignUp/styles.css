@@ -1,0 +1,41 @@
+.signup__container {
+    width: 400px;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signup__header {
+    margin-bottom: 50px;
+}
+
+.signup__form {
+    margin: 0 auto;
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form__button {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.signup__footer {
+    width: 250px;
+    margin: 60px auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.signup__footer__text {
+    text-align: center;
+}
+
+.signup__footer__button {
+    width: 150px;
+    height: 40px;
+}

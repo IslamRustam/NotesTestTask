@@ -1,0 +1,49 @@
+.note__container {
+    margin: 20px 0 20px 0;
+    padding: 10px 0 10px 0;
+    border-style: solid;
+    border-right: none;
+    border-left: none;
+    border-width: 1px;
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.note__body {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.note__image__container {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.note__image {
+    height: 100%;
+    width: 100%;
+}
+
+.note__date {
+    width: 100px;
+}
+
+.note__buttons {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.note__button {
+    width: 100px;
+}

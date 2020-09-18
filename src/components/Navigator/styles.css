@@ -1,0 +1,45 @@
+.navigator {
+    width: 217px;
+    margin: 112px 0 0 0;
+}
+
+.navigator__h1 {
+    color: white;
+    font-size: 28px;
+    line-height: 38px;
+    margin-left: 58px;
+    margin-bottom: 57px;
+    letter-spacing: -0.5px;
+}
+
+.navigator__button {
+    width: 175px;
+    height: 51px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-left: 27px;
+}
+
+.navigator__button_active {
+    background-color: rgba(252, 128, 116, 0.2);
+}
+
+.button__text {
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.5px;
+    margin: 0;
+    padding: 12px 0px 12px 30px;
+    color: white;
+}
+
+.button__text_active {
+    color: #FC8074;
+}
+
+.navigator__delimeter {
+    width: 175px;
+    height: 1px;
+    background-color: #84818E;
+    margin: 50px 0px 50px 27px;
+}

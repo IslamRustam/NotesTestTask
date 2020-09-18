@@ -1,0 +1,13 @@
+body {
+    font-family: 'Avenir';
+}
+
+p {
+    margin: 0 !important;
+}
+
+.error {
+    position: relative;
+    color: red;
+    top: 30px;
+}
